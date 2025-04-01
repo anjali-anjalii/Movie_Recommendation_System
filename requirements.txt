@@ -1,2 +1,7 @@
-streamlit==1.42.1
-requests==2.32.2
+nltk
+numpy
+pandas
+pickleshare
+pyarrow
+requests
+streamlit
